@@ -12,7 +12,7 @@ class SampleTests extends Specification {
 			val a = List("A","B")
 			val b = Seq("A","B")
 			
-			 a != b must beTrue
+			 a == b must beTrue
 		}
 	}
 	

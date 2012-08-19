@@ -1,0 +1,4 @@
+<com.kissaki.SampleTests-results timestamp="1345384928704"><result location="com.kissaki.SampleTests (SomethingTests.scala:11)" id="-1650531302"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+</com.kissaki.SampleTests-results>
+<com.kissaki.SampleTests-stats timestamp="1345384928716"><stats expectations="1" examples="1" failures="1" time="87"></stats></com.kissaki.SampleTests-stats>
+<com.kissaki.SampleTests-stats timestamp="1345384988675"><stats expectations="1" examples="1" successes="1" time="67"><trend><stats failures="-1" successes="1" time="67"></stats></trend></stats></com.kissaki.SampleTests-stats>
